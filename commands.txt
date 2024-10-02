@@ -1,0 +1,11 @@
+Liste des commandes que j'ai utilisées:
+
+git clone 
+
+git init
+
+git add .
+
+git commit -m "____"
+
+git push

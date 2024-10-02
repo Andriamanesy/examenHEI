@@ -1,0 +1,17 @@
+a. Que permet de faire la commande git pull ?
+
+Reponse : git pull est utilisée pour faire un fetch du contenu d'un dépôt distant et pour le télécharger, puis pour mettre à jour immédiatement le dépôt local qui correspond à ce contenu.
+
+
+b. Que permet de faire la commande git clone ? 
+
+Reponse : git clone est principalement utilisée pour indiquer un dépôt existant et cloner ou copier celui-ci dans un nouveau répertoire et un autre emplacement.
+
+C. Expliquer ce que fait un « fork » ?
+
+Reponse : Un fork dans Git est simplement une copie d'un dépôt existant dans lequel le nouveau propriétaire déconnecte la base de code des committers précédents . 
+
+d. Expliquez brièvement l’utilité d’une pull request (PR) ? 
+
+Reponse : L'un des principaux avantages des demandes d'extraction est leur rôle dans l'amélioration de la qualité du code . Lorsqu'un développeur lance une demande d'extraction, il signale qu'un morceau de code particulier est prêt à être examiné par ses pairs avant d'être intégré à la base de code principale.
+
